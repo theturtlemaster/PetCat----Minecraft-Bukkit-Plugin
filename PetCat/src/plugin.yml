@@ -1,0 +1,12 @@
+name: PetCat
+
+author: Your name here
+
+main: PetCat
+
+commands:
+    petcat:
+        description: Spawn a pet cat!
+        usage: / <command>
+
+version: 1.0
